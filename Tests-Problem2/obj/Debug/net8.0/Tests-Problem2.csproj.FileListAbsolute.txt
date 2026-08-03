@@ -1,0 +1,14 @@
+C:\Users\sergei-msata\source\repos\Tests-Problem2\bin\Debug\net8.0\Tests-Problem2.exe
+C:\Users\sergei-msata\source\repos\Tests-Problem2\bin\Debug\net8.0\Tests-Problem2.deps.json
+C:\Users\sergei-msata\source\repos\Tests-Problem2\bin\Debug\net8.0\Tests-Problem2.runtimeconfig.json
+C:\Users\sergei-msata\source\repos\Tests-Problem2\bin\Debug\net8.0\Tests-Problem2.dll
+C:\Users\sergei-msata\source\repos\Tests-Problem2\bin\Debug\net8.0\Tests-Problem2.pdb
+C:\Users\sergei-msata\source\repos\Tests-Problem2\obj\Debug\net8.0\Tests-Problem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergei-msata\source\repos\Tests-Problem2\obj\Debug\net8.0\Tests-Problem2.AssemblyInfoInputs.cache
+C:\Users\sergei-msata\source\repos\Tests-Problem2\obj\Debug\net8.0\Tests-Problem2.AssemblyInfo.cs
+C:\Users\sergei-msata\source\repos\Tests-Problem2\obj\Debug\net8.0\Tests-Problem2.csproj.CoreCompileInputs.cache
+C:\Users\sergei-msata\source\repos\Tests-Problem2\obj\Debug\net8.0\Tests-Problem2.dll
+C:\Users\sergei-msata\source\repos\Tests-Problem2\obj\Debug\net8.0\refint\Tests-Problem2.dll
+C:\Users\sergei-msata\source\repos\Tests-Problem2\obj\Debug\net8.0\Tests-Problem2.pdb
+C:\Users\sergei-msata\source\repos\Tests-Problem2\obj\Debug\net8.0\Tests-Problem2.genruntimeconfig.cache
+C:\Users\sergei-msata\source\repos\Tests-Problem2\obj\Debug\net8.0\ref\Tests-Problem2.dll
